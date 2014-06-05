@@ -1,3 +1,5 @@
+![Parameter and Argument](https://dl.dropboxusercontent.com/u/367600/blog_assets/ParameterAndArgument_20140604.png)
+
 今天以前，我不知道答案。現在以後，不能再傻傻分不清了。
 
 Bart De Smet 在《[C# 4.0 Unleashed](http://amzn.to/1lSS9vS)》一書的 Methods 一章提到：
